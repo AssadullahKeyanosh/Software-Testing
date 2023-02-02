@@ -27,9 +27,6 @@ focuses on individual units of code, such as functions or methods, to ensure the
 Integration Testing:
 verifies that different units of code work correctly together when integrated.
 
-Functional Testing:
-checks if the software meets the requirements and specifications and performs the intended functions.
-
 System Testing:
 examines the overall behavior and performance of the software as a whole.
 
