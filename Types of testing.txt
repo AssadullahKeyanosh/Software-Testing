@@ -27,6 +27,15 @@ evaluates the software's performance, scalability, and speed under various condi
 Usability Testing:
 determines the ease of use, user-friendliness, and user satisfaction of the software.
 
+Smoke Testing: 
+Tests the software's critical functionality to ensure that it is working properly before moving on to more comprehensive testing.
+
+Sanity Testing: 
+Tests a small subset of the software to ensure that it is working as expected before moving on to more comprehensive testing.
+
+Compatibility Testing: 
+Tests the software's compatibility with different operating systems, browsers, and hardware
+
 White Box Testing:
 focuses on the internal logic and structure of the code.
 
