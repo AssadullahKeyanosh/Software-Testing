@@ -1,7 +1,9 @@
 Functional testing:
 focus on the functionality of a sofware and verifiying that it meets the specified requirement as excpected.
 validating software features, inputs, outputs and intraction with other systems.
+
 EX:
+
 unit testing 
 Integration testing
 acceptance testing 
@@ -11,6 +13,8 @@ Non-functional testing:
 focuses on the quality, performance, reliability, security, usability, and compatibility.
 verifiying the software's ability to handle large amounts of data, traffic, and transactions, as well as its response time,
 resource consumption, and resilience under various conditions.
+
+EX:
 
 load testing
 stress testing
