@@ -12,8 +12,8 @@ checks if the software meets the requirements and specifications and performs th
 System Testing:
 examines the overall behavior and performance of the software as a whole.
 
-Acceptance Testing:
-determines if the software is ready for release and meets the customer's needs and expectations.
+User Acceptance Testing (UAT):
+Tests the software from the end-user perspective to validate that it meets their needs and expectations.
 
 Regression Testing:
 verifies that changes or updates to the software do not affect existing functionality.
