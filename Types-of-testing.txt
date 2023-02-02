@@ -1,4 +1,9 @@
-There are several types of testing in software development:
+Functional testing:
+focuses on the functionality of the software, verifying that it meets the specified requirements and behaves as expected in different scenarios. This type of testing includes tests such as unit tests, integration tests, and acceptance tests, which validate the software's features, inputs, outputs, and interactions with other systems.
+
+Non-functional testing, on the other hand, focuses on the non-functional aspects of software quality, such as performance, reliability, security, usability, and compatibility. This type of testing includes tests such as load testing, stress testing, security testing, and performance testing, which evaluate the software's ability to handle large amounts of data, traffic, and transactions, as well as its response time, resource consumption, and resilience under various conditions.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 Unit Testing: 
 focuses on individual units of code, such as functions or methods, to ensure they are working correctly.
