@@ -56,9 +56,10 @@ Tests the software's compatibility with different operating systems, browsers, a
 
 White Box Testing:
 focuses on the internal logic and structure of the code.
+(developer)
 
 Black Box Testing:
 focuses on the functionality of the software and verifies it without any knowledge of its internal workings.
-
+(software tester)
 
 
