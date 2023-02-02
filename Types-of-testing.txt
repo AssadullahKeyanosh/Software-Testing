@@ -3,7 +3,7 @@ focus on the functionality of a sofware and verifiying that it meets the specifi
 validating software features, inputs, outputs and intraction with other systems.
 EX:
 unit testing 
-intefration testing
+Integration testing
 acceptance testing 
 
 
