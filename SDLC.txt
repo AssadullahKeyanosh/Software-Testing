@@ -1,34 +1,33 @@
 
-Planning: 
-In this phase, the project scope, objectives, and deliverables are defined, and a project plan is created
+1- Planning: 
+   In this phase, the project scope, objectives, and deliverables are defined, and a project plan is created
 
 
-Requirements gathering and analysis: 
-Understanding what the customer wants and documenting their requirements.
-SRS (software Requirement specification) is created.
+2- Requirements gathering and analysis: 
+   Understanding what the customer wants and documenting their requirements.
+   SRS (software Requirement specification) is created.
 
 
-Design: 
-Developing a blueprint for the software system.
-
-Architectural design/TDD (technical design document) is created.
-
-
-Implementation/Development: 
-Writing code, developing and testing components and modules.
+3- Design: 
+   Developing a blueprint for the software system.
+   Architectural design/TDD (technical design document) is created.
 
 
-Testing: 
-Verifying that the software meets the requirements and finding and fixing any errors or bugs.
+4- Implementation/Development: 
+   Writing code, developing and testing components and modules.
 
 
-Deployment: 
-Deploying the software in a production environment and making it available to end-users.
+5- Testing: 
+   Verifying that the software meets the requirements and finding and fixing any errors or bugs.
 
 
-Maintenance: 
-Ongoing support and maintenance of the software system. This includes bug fixes, performance tuning,and new features
+6- Deployment: 
+   Deploying the software in a production environment and making it available to end-users.
+
+
+7- Maintenance: 
+   Ongoing support and maintenance of the software system. This includes bug fixes, performance tuning,and new features
 
 
 
-other sources:https://letzdotesting.com/software-development-life-cycle-sdlc/
+# Other sources:https://letzdotesting.com/software-development-life-cycle-sdlc/
