@@ -73,7 +73,7 @@ Deliverables:
 
 
 2- Test Planning:
-Test Planning in STLC is a phase in which a Senior QA manager determines the test plan strategy along with efforts and cost estimates for the project. 
+Senior QA manager determines the test plan strategy along with efforts and cost estimates for the project. 
 Moreover, the resources, test environment, test limitations and the testing schedule are also determined.
 The Test Plan gets prepared and finalized in the same phase.
 
