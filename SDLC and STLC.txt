@@ -96,7 +96,6 @@ Initially, the Test data is identified then created and reviewed and then rework
 Then the QA team starts the development process of test cases for individual units.
 
 Activities:
-
 * Create test cases, automation scripts (if applicable).
 * Review and baseline test cases and scripts.
 * Create test data (If Test Environment is available).
