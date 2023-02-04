@@ -143,7 +143,9 @@ Deliverables:
 6- Test Cycle Closure:
 Test Cycle Closure phase is completion of test execution which involves several activities like test completion reporting, 
 collection of test completion matrices and test results.
-Testing team members meet, discuss and analyze testing artifacts to identify strategies that have to be implemented in future, taking lessons from current test cycle. The idea is to remove process bottlenecks for future test cycles.
+Testing team members meet, discuss and analyze testing artifacts to identify strategies that have to be implemented in future,
+taking lessons from current test cycle.
+The idea is to remove process bottlenecks for future test cycles.
 
 Activities:
 * Evaluate cycle completion criteria based on Time, Test coverage, Cost,Software, Critical Business Objectives, Quality
