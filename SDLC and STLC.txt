@@ -56,7 +56,8 @@ STLC Phases
 
 1- Requirement Analysis:
 Requirement Phase Testing also known as Requirement Analysis in which test team studies the requirements from a testing point of view 
-to identify testable requirements and the QA team may interact with various stakeholders(Client, Busniess analyst, thechnical leads, system Architects etc) to understand requirements in detail. 
+to identify testable requirements and the QA team may interact with various stakeholders(Client, Busniess analyst, thechnical leads, system Architects etc)
+to understand requirements in detail. 
 Requirements could be either functional(defining what the software must do) or non-functional (defining system performance /Security avalibility ). 
 Automation feasibility for the testing project is also done in this stage.
 
@@ -140,7 +141,9 @@ Deliverables:
 * Defect reports.
 
 6- Test Cycle Closure:
-Test Cycle Closure phase is completion of test execution which involves several activities like test completion reporting, collection of test completion matrices and test results. Testing team members meet, discuss and analyze testing artifacts to identify strategies that have to be implemented in future, taking lessons from current test cycle. The idea is to remove process bottlenecks for future test cycles.
+Test Cycle Closure phase is completion of test execution which involves several activities like test completion reporting, 
+collection of test completion matrices and test results.
+Testing team members meet, discuss and analyze testing artifacts to identify strategies that have to be implemented in future, taking lessons from current test cycle. The idea is to remove process bottlenecks for future test cycles.
 
 Activities:
 * Evaluate cycle completion criteria based on Time, Test coverage, Cost,Software, Critical Business Objectives, Quality
