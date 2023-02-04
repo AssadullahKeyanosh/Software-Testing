@@ -55,9 +55,8 @@ STLC Phases
 
 
 1- Requirement Analysis:
-Requirement Phase Testing also known as Requirement Analysis in which test team studies the requirements from a testing point of view 
-to identify testable requirements and the QA team may interact with various stakeholders(Client, Busniess analyst, thechnical leads, system Architects etc)
-to understand requirements in detail. 
+Test team studies the requirements from a testing prespective to identify testable requirements.
+the QA team may interact with various stakeholders(Client, Busniess analyst, thechnical leads, system Architects etc) to understand requirements in detail. 
 Requirements could be either functional(defining what the software must do) or non-functional (defining system performance /Security avalibility ). 
 Automation feasibility for the testing project is also done in this stage.
 
