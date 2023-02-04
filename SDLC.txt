@@ -1,6 +1,15 @@
+SDLC Phases
+1- planning
+2- Requirements gathering and analysis
+3- Design
+4- Implementation/Development
+5- Testing
+6- Deployment
+7- Maintenance
+
 
 1- Planning: 
-   In this phase, the project scope, objectives, and deliverables are defined, and a project plan is created
+   In this phase, the project scope, objectives, and deliverables are defined, and a project plan is created.
 
 
 2- Requirements gathering and analysis: 
@@ -26,8 +35,123 @@
 
 
 7- Maintenance: 
-   Ongoing support and maintenance of the software system. This includes bug fixes, performance tuning,and new features
+   Ongoing support and maintenance of the software system. This includes bug fixes, performance tuning,and new features.
 
 
 
-# Other sources:https://letzdotesting.com/software-development-life-cycle-sdlc/
+# sources:https://letzdotesting.com/software-development-life-cycle-sdlc/
+
+********************************************************************************************************************************************************************
+
+
+STLC Phases
+
+1- Requirement Analysis
+2- Test Planning
+3- Test case development
+4- Test Environment setup
+5- Test Execution
+6- Test Cycle closure
+
+
+1- Requirement Analysis:
+Requirement Phase Testing also known as Requirement Analysis in which test team studies the requirements from a testing point of view 
+to identify testable requirements and the QA team may interact with various stakeholders(Client, Busniess analyst, thechnical leads, system Architects etc) to understand requirements in detail. 
+Requirements could be either functional(defining what the software must do) or non-functional (defining system performance /Security avalibility ). 
+Automation feasibility for the testing project is also done in this stage.
+
+Activities:
+* Identify types of tests to be performed.
+* Gather details about testing priorities and focus.
+* Prepare Requirement Traceability Matrix (RTM).
+* Identify test environment details where testing is supposed to be carried out.
+* Automation feasibility analysis (if required).
+
+Deliverables:
+* RTM.
+* Automation feasibility report. (if applicable).
+
+
+2- Test Planning:
+Test Planning in STLC is a phase in which a Senior QA manager determines the test plan strategy along with efforts and cost estimates for the project. 
+Moreover, the resources, test environment, test limitations and the testing schedule are also determined.
+The Test Plan gets prepared and finalized in the same phase.
+
+ Activities:
+* Preparation of test plan/strategy document for various types of testing.
+* Test tool selection.
+* Test effort estimation.
+* Resource planning and determining roles and responsibilities.
+* Training requirement.
+
+Deliverables:
+* Test plan /strategy document.
+* Effort estimation document.
+
+
+
+3- Test Case Development:
+The Test Case Development Phase involves the creation, verification and rework of test cases & test scripts after the test plan is ready.
+Initially, the Test data is identified then created and reviewed and then reworked based on the preconditions.
+Then the QA team starts the development process of test cases for individual units.
+
+Activities:
+
+* Create test cases, automation scripts (if applicable).
+* Review and baseline test cases and scripts.
+* Create test data (If Test Environment is available).
+
+Deliverables:
+* Test cases/scripts.
+* Test data.
+
+
+4- Test Environment Setup:
+Test Environment Setup decides the software and hardware conditions under which a work product is tested.
+It is one of the critical aspects of the testing process and can be done in parallel with the Test Case Development Phase. 
+Test team may not be involved in this activity if the development team provides the test environment. 
+The test team is required to do a readiness check (smoke testing) of the given environment.
+
+Activities:
+* Understand the required architecture, environment set-up and prepare hardware and software requirement list for the Test Environment.
+* Setup test Environment and test data.
+* Perform smoke test on the build.
+
+Deliverables:
+* Environment ready with test data set up.
+* Smoke Test Results.
+
+
+5- Test Execution:
+Test Execution Phase is carried out by the testers in which testing of the software build is done based on test plans and test cases prepared.
+The process consists of test script execution, test script maintenance and bug reporting.
+If bugs are reported then it is reverted back to development team for correction and retesting will be performed.
+
+Activities:
+* Execute tests as per plan.
+* Document test results, and log defects for failed cases.
+* Map defects to test cases in RTM.
+* Retest the Defect fixes.
+* Track the defects to closure
+
+Deliverables:
+* Completed RTM with the execution status.
+* Test cases updated with results.
+* Defect reports.
+
+6- Test Cycle Closure:
+Test Cycle Closure phase is completion of test execution which involves several activities like test completion reporting, collection of test completion matrices and test results. Testing team members meet, discuss and analyze testing artifacts to identify strategies that have to be implemented in future, taking lessons from current test cycle. The idea is to remove process bottlenecks for future test cycles.
+
+Activities:
+* Evaluate cycle completion criteria based on Time, Test coverage, Cost,Software, Critical Business Objectives, Quality
+* Prepare test metrics based on the above parameters.
+* Document the learning out of the project
+* Prepare Test closure report
+* Qualitative and quantitative reporting of quality of the work product to the customer.
+* Test result analysis to find out the defect distribution by type and severity.
+
+ Deliverables:
+* Test Closure report
+* Test metrics.
+
+#sources:https://www.guru99.com/software-testing-life-cycle.html
